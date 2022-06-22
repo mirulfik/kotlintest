@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078141323694",
+    "project_id": "recipez-da10d",
+    "storage_bucket": "recipez-da10d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078141323694:android:350d766f4aa7b146b5e03f",
+        "android_client_info": {
+          "package_name": "com.example.kotlintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078141323694-jes90krssq94b3instrblj0k7uh4dfte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1D2q1cIUULtIAbt2J2Wp4Gp2yIPDBtxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078141323694-jes90krssq94b3instrblj0k7uh4dfte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
